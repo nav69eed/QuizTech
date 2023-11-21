@@ -1,0 +1,1 @@
+<a href="{{$adress}}"><button class="btn btn-primary mx-1 my-2 py-1 px-2 ">{{$title}}</button></a>
